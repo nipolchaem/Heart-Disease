@@ -1,2 +1,2 @@
-# Machine-Learning
+# Heart Disease
 In this project, the heart disease data set originated from https://archive.ics.uci.edu/ml/datasets/Heart+Disease has been used to train a model to predict if there is the presence of heart disease in patients. This problem is a classification problem, so the classification methods, namely, Logistic Regression, SVM, kNN, Naive Bayes' classification, Decision Tree, and Random Forest, will be used. Each model will be tested using k-Fold Cross-validation. In the last section, an artificial neural network is created to predict the heart disease rate.
